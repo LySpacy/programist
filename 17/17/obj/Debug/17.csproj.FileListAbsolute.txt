@@ -1,0 +1,11 @@
+G:\Папка вовы\code\Markov\17\17\bin\Debug\17.exe.config
+G:\Папка вовы\code\Markov\17\17\bin\Debug\17.exe
+G:\Папка вовы\code\Markov\17\17\bin\Debug\17.pdb
+G:\Папка вовы\code\Markov\17\17\obj\Debug\17.csproj.AssemblyReference.cache
+G:\Папка вовы\code\Markov\17\17\obj\Debug\17.csproj.SuggestedBindingRedirects.cache
+G:\Папка вовы\code\Markov\17\17\obj\Debug\_17.Form1.resources
+G:\Папка вовы\code\Markov\17\17\obj\Debug\_17.Properties.Resources.resources
+G:\Папка вовы\code\Markov\17\17\obj\Debug\17.csproj.GenerateResource.cache
+G:\Папка вовы\code\Markov\17\17\obj\Debug\17.csproj.CoreCompileInputs.cache
+G:\Папка вовы\code\Markov\17\17\obj\Debug\17.exe
+G:\Папка вовы\code\Markov\17\17\obj\Debug\17.pdb
