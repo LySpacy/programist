@@ -1,0 +1,11 @@
+G:\Папка вовы\code\Markov\massiv\14\14\bin\Debug\14.exe.config
+G:\Папка вовы\code\Markov\massiv\14\14\bin\Debug\14.exe
+G:\Папка вовы\code\Markov\massiv\14\14\bin\Debug\14.pdb
+G:\Папка вовы\code\Markov\massiv\14\14\obj\Debug\14.csproj.AssemblyReference.cache
+G:\Папка вовы\code\Markov\massiv\14\14\obj\Debug\14.csproj.SuggestedBindingRedirects.cache
+G:\Папка вовы\code\Markov\massiv\14\14\obj\Debug\_14.Form1.resources
+G:\Папка вовы\code\Markov\massiv\14\14\obj\Debug\_14.Properties.Resources.resources
+G:\Папка вовы\code\Markov\massiv\14\14\obj\Debug\14.csproj.GenerateResource.cache
+G:\Папка вовы\code\Markov\massiv\14\14\obj\Debug\14.csproj.CoreCompileInputs.cache
+G:\Папка вовы\code\Markov\massiv\14\14\obj\Debug\14.exe
+G:\Папка вовы\code\Markov\massiv\14\14\obj\Debug\14.pdb
