@@ -1,0 +1,11 @@
+G:\Папка вовы\code\Markov\21\21\bin\Debug\21.exe.config
+G:\Папка вовы\code\Markov\21\21\bin\Debug\21.exe
+G:\Папка вовы\code\Markov\21\21\bin\Debug\21.pdb
+G:\Папка вовы\code\Markov\21\21\obj\Debug\21.csproj.AssemblyReference.cache
+G:\Папка вовы\code\Markov\21\21\obj\Debug\21.csproj.SuggestedBindingRedirects.cache
+G:\Папка вовы\code\Markov\21\21\obj\Debug\_21.Form1.resources
+G:\Папка вовы\code\Markov\21\21\obj\Debug\_21.Properties.Resources.resources
+G:\Папка вовы\code\Markov\21\21\obj\Debug\21.csproj.GenerateResource.cache
+G:\Папка вовы\code\Markov\21\21\obj\Debug\21.csproj.CoreCompileInputs.cache
+G:\Папка вовы\code\Markov\21\21\obj\Debug\21.exe
+G:\Папка вовы\code\Markov\21\21\obj\Debug\21.pdb
